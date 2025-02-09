@@ -6,7 +6,7 @@ _Create and run a GitHub Actions workflow._
 
 </header>
 
-added an emoji : 😎
+added an emoji : 😎 
 
 ## Step 5: Trigger the workflow
 
